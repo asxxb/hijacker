@@ -7,3 +7,7 @@ hijacker application for android devices<br><br>
 *root the device <br>
 *setup the  su binary<br>
 *enjoyy 👾
+
+<br><br><br>
+
+for education purpose  only
