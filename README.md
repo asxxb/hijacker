@@ -5,6 +5,8 @@ hijacker application for android devices<br><br>
 # installation 
 
 *root the device <br>
+*download the zip<br>
+*unzip the file<br>
 *setup the  su binary<br>
 *enjoyy 👾
 
